@@ -1,7 +1,7 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 
 ## Problem Statement
-This data science project aims to predict the price of houses in Ames, Iowa. We are given 80 variables on the quality and quantity of many physical attributes of individual residential properties in Ames, including their sale price, from property sales between 2006 and 2010.
+This data science project aims to predict the price of houses in Ames, Iowa. We are given 80 variables on the quality and quantity of many physical attributes from individual residential properties in Ames, including their sale price, from property sales between 2006 and 2010.
 
 ## Executive Summary
 
